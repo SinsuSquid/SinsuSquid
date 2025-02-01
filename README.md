@@ -12,7 +12,7 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 - Bachelor's Degree in Chemistry and Big Data Science @ Sogang Univ. (2017-2023)
 
 ## Publications
-- "Chemomile: Explainable Multi-Level GNN Model for Combustion Property Prediction", **Beomgyu Kang** and Bong June Sung* (*under review*) (2024)
+- "Chemomile: Explainable Multi-Level GNN Model for Combustion Property Prediction", **Beomgyu Kang** and Bong June Sung* (*accepted*) (2025)
   
 ## Interests & Skills
 - Inorganic Glassy Solid-State Electrolyte (IGSSE)
