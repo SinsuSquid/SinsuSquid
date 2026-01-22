@@ -3,6 +3,9 @@
 SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ## Experiences
+
+- Researcher, Specialty Chemical Research Team @ ISU SPECIALTY CHEMICAL (2025.07~2025.11)
+
 - Master's Degree in Chemistry @ Sogang Univ. (2023.09~2025.06)
   - [Soft Matter Computational Chemistry Lab.](http://nanobiocom.sogang.ac.kr) (연성물질계산화학연구실)
 
@@ -10,7 +13,8 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ## Publications
 - "Chemomile: Explainable Multi-Level GNN Model for Combustion Property Prediction", **Beomgyu Kang** and B. J. S.*, *J. Phys. Chem. A* 2025, 129, 1880-1889, https://doi.org/10.1021/acs.jpca.5c00380
-  
+- "Non-Monotonic Ion Conductivity in Lithium-Aluminium-Chloride Glass Solid-State Electrolytes Explained by Cascading Hoping", **Beomgyu Kang**, J. Yu, S. Saito, J. Jang and B. J. S.*, *Advanced Science* 2025, 12, 45, e09205, https://doi.org/10.1002/advs.202509205
+
 ## Interests & Skills
 - Inorganic Glassy Solid-State Electrolyte (IGSSE)
 - Machine Learning Molecular Dynamics (MLMD)
@@ -20,4 +24,3 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ## Contacts
 - e-mail : beomgyu.kang.kor@gmail.com
-- LinkedIn : www.linkedin.com/in/beomgyu-kang-28187b342/
