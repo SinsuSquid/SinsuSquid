@@ -4,6 +4,8 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ## Experiences
 
+- Intern, Supercomputing Application Support Center @ Korea Institute of Science and Technology Information (한국과학기술정보연구원) (2026.03~)
+
 - Researcher, Specialty Chemical Research Team @ ISU SPECIALTY CHEMICAL (2025.07~2025.11)
 
 - Master's Degree in Chemistry @ Sogang Univ. (2023.09~2025.06)
