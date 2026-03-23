@@ -9,7 +9,6 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 - Researcher, Specialty Chemical Research Team @ ISU SPECIALTY CHEMICAL (2025.07~2025.11)
 
 - Master's Degree in Chemistry @ Sogang Univ. (2023.09~2025.06)
-  - [Soft Matter Computational Chemistry Lab.](http://nanobiocom.sogang.ac.kr) (연성물질계산화학연구실)
 
 - Bachelor's Degree in Chemistry and Big Data Science @ Sogang Univ. (2017-2023)
 
