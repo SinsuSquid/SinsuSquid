@@ -4,7 +4,7 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ## Experiences
 
-- Intern, Supercomputing Application Support Center @ Korea Institute of Science and Technology Information (한국과학기술정보연구원) (2026.03~)
+- Intern, HPC Application Team (HPC 응용팀), Supercomputing Application Support Center (슈퍼컴퓨팅응용지원센터) @ Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원) (2026.03~)
 
 - Researcher, Specialty Chemical Research Team @ ISU SPECIALTY CHEMICAL (2025.07~2025.11)
 
