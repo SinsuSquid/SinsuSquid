@@ -18,3 +18,4 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ## Contacts
 - e-mail : beomgyu.kang.kor@gmail.com
+- LinkedIn : https://www.linkedin.com/in/beomgyu-kang-694425408/
