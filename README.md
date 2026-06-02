@@ -2,7 +2,8 @@
 
 SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
-![Wizard Progress](https://img.shields.io/badge/You%27re_a_wizard_🧙‍♂️-94%25_Done!-purple?style=for-the-badge&logo=github)
+<!-- START_DDAY -->
+<!-- END_DDAY -->
 
 ## Experiences
 
