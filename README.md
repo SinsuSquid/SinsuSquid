@@ -4,6 +4,12 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 <img src="aeroduck.jpg" alt="Aerodynamics of a rubber duck" width="450">
 
 <!-- START_DDAY -->
+
+### 🧙‍♂️ You're a wizard
+🔮 **94.1%** [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]
+
+🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 646 days left | 🏁 **Target:** 2028-03-10
+
 <!-- END_DDAY -->
 
 ## Experiences
