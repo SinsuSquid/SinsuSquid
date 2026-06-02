@@ -2,7 +2,7 @@
 
 SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
-![You're a wizard, Harry](https://schkn.io/progress-bar?start=1998-03-10&end=2028-03-10&title=You're+a+wizrd+🧙‍♂️)
+![Wizard Progress](https://img.shields.io/badge/You%27re_a_wizard_🧙‍♂️-94%25_Done!-purple?style=for-the-badge&logo=github)
 
 ## Experiences
 
