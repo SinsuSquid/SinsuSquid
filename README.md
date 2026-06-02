@@ -1,12 +1,3 @@
-
-
-### 🧙‍♂️ You're a wizard
-🔮 **94.1% Complete**
-```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]
-```
-🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 646 days left | 🏁 **Target:** 2028-03-10
-
 # 🦑 [SinsuSquid](https://github.com/SinsuSquid) 🦑
 SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
