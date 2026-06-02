@@ -1,6 +1,7 @@
 # 🦑 [SinsuSquid](https://github.com/SinsuSquid) 🦑
-
 SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
+
+<img src="aeroduck.jpg" alt="Aerodynamics of a rubber duck" width="450">
 
 <!-- START_DDAY -->
 <!-- END_DDAY -->
