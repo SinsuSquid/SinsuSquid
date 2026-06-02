@@ -24,10 +24,7 @@ bar = "▓" * filled_length + "░" * (bar_length - filled_length)
 # 5. Format the beautiful output string
 output_lines = [
     f"### 🧙‍♂️ You're a wizard",
-    f"🔮 **{percent:.1f}% Complete**",
-    f"```text",
-    f"[{bar}]",
-    f"```",
+    f"🔮 **{percent:.1f}%** [{bar}]",
     f"🪄 **Started:** {start_date.strftime('%Y-%m-%d')} | ⏳ **Days Remaining:** {max(0, days_left)} days left | 🏁 **Target:** {target_date.strftime('%Y-%m-%d')}"
 ]
 
@@ -37,8 +34,8 @@ dday_text = "\n".join(output_lines)
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-start_tag = ""
-end_tag = ""
+start_tag = "<!-- START_DDAY --> "
+end_tag = "<!-- END_DDAY -->"
 
 start_idx = content.find(start_tag) + len(start_tag)
 end_idx = content.find(end_tag)
