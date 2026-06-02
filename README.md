@@ -2,6 +2,8 @@
 
 SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
+![You're a wizard, Harry](https://schkn.io/progress-bar?start=1998-03-10&end=2028-03-10&title=You're+a+wizrd+🧙‍♂️)
+
 ## Experiences
 
 - Intern, HPC Application Team (HPC 응용팀), Supercomputing Application Support Center (슈퍼컴퓨팅응용지원센터) @ Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원) (2026.03~)
