@@ -4,8 +4,6 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 
 ![Wizard Progress](https://img.shields.io/badge/You%27re_a_wizard_🧙‍♂️-94%25_Done!-purple?style=for-the-badge&logo=github)
 
-Progress: ░░░░░░░░░░░░░░░░░░░░ 0%
-
 ## Experiences
 
 - Intern, HPC Application Team (HPC 응용팀), Supercomputing Application Support Center (슈퍼컴퓨팅응용지원센터) @ Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원) (2026.03~)
