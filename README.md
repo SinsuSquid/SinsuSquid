@@ -8,7 +8,7 @@ SinsuSquid (신수동오징어) a.k.a. Beomgyu Kang (강범규)
 ### 🧙‍♂️ You're a wizard
 🔮 **94.5%** [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]
 
-🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 605 days left | 🏁 **Target:** 2028-03-10
+🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 604 days left | 🏁 **Target:** 2028-03-10
 
 <!-- END_DDAY -->
 
