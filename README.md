@@ -1,9 +1,8 @@
-# 🦑 [SinsuSquid](https://github.com/SinsuSquid) 🦑
-SinsuSquid (신수동오징어)
+# 🦑 SinsuSquid (신수동오징어)🦑
 
 <!-- START_DDAY -->
 
-### 🧙‍♂️ You're a wizard
+## 🧙‍♂️ You're a wizard
 🔮 **94.6%** [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]
 
 🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 592 days left | 🏁 **Target:** 2028-03-10
