@@ -5,7 +5,7 @@
 ### 🧙‍♂️ You're a wizard
 🔮 **94.9%** [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]
 
-🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 557 days left | 🏁 **Target:** 2028-03-10
+🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 556 days left | 🏁 **Target:** 2028-03-10
 
 <!-- END_DDAY -->
 
