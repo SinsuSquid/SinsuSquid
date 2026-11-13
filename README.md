@@ -1,14 +1,5 @@
 # 🦑 SinsuSquid (신수동오징어)🦑
 
-<!-- START_DDAY -->
-
-### 🧙‍♂️ You're a wizard
-🔮 **95.6%** [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]
-
-🪄 **Started:** 1998-03-10 | ⏳ **Days Remaining:** 482 days left | 🏁 **Target:** 2028-03-10
-
-<!-- END_DDAY -->
-
 ## Experiences
 
 - Intern, HPC Application Team (HPC 응용팀), Supercomputing Application Support Center (슈퍼컴퓨팅응용지원센터) @ Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원) (2026.03~)
